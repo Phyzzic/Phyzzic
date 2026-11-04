@@ -16,7 +16,6 @@ UK-based freelance web developer. I build fast, hand-made websites that work on 
 ## Selected work
 
 - **[Ametrine Foundation](https://ametrine.cc)** is the website for a privacy-first software project, built with Astro and TypeScript.
-- **[Alleyne's Academy in Africa](https://alleynesinafrica.uk)** is a fundraising site for a school expedition to Kenya, with a page for every student.
 
 ## Get in touch
 
